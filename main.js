@@ -43,7 +43,7 @@ function weather(a){
 
     document.getElementById("description").innerHTML = a.weather[0].description
     temp.innerHTML = celcius + '&deg'
-    // document.getElementById("icons").src = `http://openweathermap.org/img/w/${a.weather[0].icon}.png`
+   
 
 }
 
