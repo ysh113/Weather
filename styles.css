@@ -1,0 +1,25 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #fff;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(to left top, #99bbcb, #a5c7d7, #b1d4e2, #bde0ee, #c9edfa);
+}
+h1 {
+    margin: 0 auto;
+    font-size: 1.2em;
+    text-align: center;
+    color: rgb(100, 96, 96);
+    font-size: 1.2em;
+}
+
+input{
+    padding: 1em;
+    border-radius: 10px;
+}
+
+
