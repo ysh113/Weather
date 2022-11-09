@@ -1,17 +1,6 @@
 
 
 
-// get api key
-// make input field where users can search cities
-// make the input field searchable by "enter"
-// use the api key to get the weather
-// print the temperature by console.log
-// 
-
-
-
-
-
 
 
 
@@ -21,7 +10,7 @@ let temp = document.getElementById("temp")
 
 
 const api = {
-    key: "f68e717454a648c974ba49fc3b284836",
+    key: "",
     baseUrl: `https://api.openweathermap.org/data`
 }
 
