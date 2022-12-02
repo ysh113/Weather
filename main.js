@@ -23,7 +23,7 @@ function input(){
             .then(response =>{
                 return response.json()
             })
-            .then(data =>{   //im specifically asking about this part here
+            .then(data =>{  
              weather(data)
                  })
         
