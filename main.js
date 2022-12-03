@@ -10,7 +10,7 @@ let temp = document.getElementById("temp")
 
 
 const api = {
-    key: "",
+    key: "f68e717454a648c974ba49fc3b284836",
     baseUrl: `https://api.openweathermap.org/data`
 }
 
